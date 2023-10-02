@@ -1,7 +1,7 @@
 # E-commerce
-This is  my first e-commerce website
+This is  my first e-commerce website 
 
-# This is my UI what is shows
+# This is my UI what is shows for the user first time
 
 <img width="911" alt="6" src="https://github.com/keshav-chandra/E-commerce/assets/93521407/445016de-e0b2-4b36-bc98-0d207ffb03ec">
 
